@@ -1,0 +1,1 @@
+Entrants submit one funny line of text, at most 200 characters. A judge model reads entries two at a time and picks the funnier one, so the line that wins the most comparisons takes the top place. Free to enter, and the reward pool is split over the top places.
